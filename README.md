@@ -1,6 +1,5 @@
 # Housing-in-Brasil
 In this project, I worked with a dataset of homes for sale in Brasil. The goal was to determine if there are regional differences in the real estate market. Also,I looked at southern Brazil to see if there is a relationship between home size and price. 
-# Import Matplotlib, pandas, and plotly
 
 Some of the things I did in this project are:
 
